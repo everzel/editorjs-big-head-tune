@@ -3,7 +3,7 @@
 At the moment no additional options is supported
 
 **Install**
-`yarn add https://github.com/everzel/editorjs-big-head-tune`
+`yarn add https://github.com/everzel/editorjs-big-head-tune.git#main`
 
 **Connect**
 ```js
