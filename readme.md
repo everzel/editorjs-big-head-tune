@@ -3,11 +3,11 @@
 At the moment no additional options is supported
 
 **Install**
-`yarn add https://github.com/ScaleMeUp/editorjs-stretch-tune`
+`yarn add https://github.com/everzel/editorjs-big-head-tune`
 
 **Connect**
 ```js
-import BigHeadTune from '@scalemeup/editorjs-stretch-tune'
+import BigHeadTune from '@everzel/editorjs-big-head-tune'
 //...
 new EditorJS({
     tools: {
